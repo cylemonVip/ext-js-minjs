@@ -32,9 +32,9 @@
 *发布后可删除js文件夹，以及mainfest.json。
 
 
-！[1]（1.jpg）
+![1](1.jpg)
 
-！[2]（2.jpg）
+![2](2.jpg)
 
 ---
 
@@ -70,6 +70,6 @@
 *发布后，您可以删除js文件夹和mainfest.json。
 
 
-！[1]（1.jpg）
+![1](1.jpg)
 
-！[2]（2.jpg） # ext-js-minjs
+![2](2.jpg) # ext-js-minjs

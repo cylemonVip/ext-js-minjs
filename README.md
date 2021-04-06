@@ -9,7 +9,7 @@
 *加载顺序index.html-> zlib.min.js-> game.cfg
 
 
-##使用方法
+##文件说明
 * compress.py
     *压缩js的工具，读manifest.json，压入game.cfg。
     *扩展名使用cfg，zip可能被下载软件拦截。
